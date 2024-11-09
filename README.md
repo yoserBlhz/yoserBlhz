@@ -4,7 +4,7 @@ I'm an engineering student specializing in computer science with a deep passion 
 My interests lie in secure software development, network security, and data privacy. 
 
 - 🔒 I'm focused on building secure, reliable software.
-- 📚 Currently learning advanced cybersecurity practices and diving into open-source security tools.
+- 📚 Currently learning  cybersecurity practices and diving into open-source security tools.
 - 🤝 Open to collaborating on projects involving security, data privacy, or any innovative tech solution.
 - 🌐 Let's connect and make the digital world a safer place together!
 
